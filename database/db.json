@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "phuvan@gmail.com",
+      "image": "phu.jpg",
+      "name": "phu",
+      "todo": [
+        "Complete market analysis report",
+        "Prepare presentation for client meeting",
+        "Update website content",
+        "Organize team training session"
+      ]
+    },
+    {
+      "id": 2,
+      "email": "sonpham280502002@gmail.com",
+      "image": "son.jpg",
+      "name": "Son",
+      "todo": [
+        "Check emails",
+        "Develop UI for new dashboard",
+        "Learn JavaScript frameworks",
+        "Implement advanced HTML features",
+        "Design UI for Medical App",
+        "Study Java multithreading"
+      ]
+    },
+    {
+      "id": 3,
+      "email": "lisa@gmail.com",
+      "image": "lisa.jpg",
+      "name": "lisa",
+      "todo": [
+        "Research new marketing strategies",
+        "Create social media content calendar",
+        "Analyze competitor websites",
+        "Develop advertising campaigns"
+      ]
+    },
+    {
+      "id": 4,
+      "email": "example4@gmail.com",
+      "image": "user4.jpg",
+      "name": "User4",
+      "todo": [
+        "Write backend API for mobile app",
+        "Test application security",
+        "Deploy new database structure"
+      ]
+    },
+    {
+      "id": 5,
+      "email": "example5@gmail.com",
+      "image": "user5.jpg",
+      "name": "User5",
+      "todo": [
+        "Design user authentication system",
+        "Create user interface for e-commerce platform",
+        "Optimize website performance"
+      ]
+    }
+  ]
+}
